@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinJu's%20page&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=&animation=fadeIn)
 
 #### :pencil2: Study log
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlkinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
